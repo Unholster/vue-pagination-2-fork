@@ -9,8 +9,7 @@
         "rawSpec": "^0.2.4",
         "spec": ">=0.2.4 <0.3.0",
         "type": "range"
-      },
-      "/Users/claudio/src/cdec-ppagos-app/node_modules/vue-tables-2"
+      }
     ]
   ],
   "_from": "vue-pagination-2@>=0.2.4 <0.3.0",
@@ -44,7 +43,6 @@
   "_shasum": "6aa3148a1737cbcb5b17eec86c03fd2f113baa65",
   "_shrinkwrap": null,
   "_spec": "vue-pagination-2@^0.2.4",
-  "_where": "/Users/claudio/src/cdec-ppagos-app/node_modules/vue-tables-2",
   "browserify": {
     "transform": [
       "babelify"
